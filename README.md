@@ -56,3 +56,5 @@ GitHub Actions ajaa samat testit automaattisesti jokaisesta `git push` -komennos
 > Testit tarkistavat DOM-rakenteen ja saavutettavuuden perusasiat. Kun yllä olevat kohdat täyttyvät, testit menevät läpi sekä paikallisesti että CI:ssä.
 
 <!-- Trigger commit 11/01/2025 21:50:44 -->
+
+<!-- Trigger commit 11/01/2025 22:00:04 -->
